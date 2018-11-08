@@ -116,6 +116,24 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Who Let the Hogs Out",
+      "specialty": "singing",
+      "greased": false,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "24",
+      "highest medal achieved": "platinum",
+      "image": "https://vignette.wikia.nocookie.net/wabbit/images/8/85/Porky_Pig.png/revision/latest?cb=20161126211803",
+      "id": 13
+    },
+    {
+      "name": "Snoopy",
+      "specialty": "singing",
+      "greased": false,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "24",
+      "highest medal achieved": "platinum",
+      "image": "https://vignette.wikia.nocookie.net/wabbit/images/8/85/Porky_Pig.png/revision/latest?cb=20161126211803",
+      "id": 14
     }
   ]
 }
